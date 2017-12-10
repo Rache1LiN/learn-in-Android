@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TableLayoutExample</string>
+    <string name="open">0pen...</string>
+    <string name="open_shortcut">Ctrl-O</string>
+    <string name="save">Save...</string>
+    <string name="save_shortcut">Ctrl-S</string>
+    <string name="save_as">Save As...</string>
+    <string name="save_as_shortcut">Ctrl-Shift-S</string>
+    <string name="imp">X Import...</string>
+    <string name="exp">X Export...</string>
+    <string name="exp_shortcut">Ctrl-E</string>
+    <string name="quit">Quit</string>
+</resources>
