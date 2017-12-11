@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuTest</string>
+    <string name="action_textSize">字体大小</string>
+    <string name="action_simple">普通菜单项</string>
+    <string name="action_textColor">字体颜色</string>
+    <string name="Size_ten">10号</string>
+    <string name="Size_sixteen">16号</string>
+    <string name="Size_twenty">20号</string>
+    <string name="Color_black">黑色</string>
+    <string name="Color_red">红色</string>
+</resources>
