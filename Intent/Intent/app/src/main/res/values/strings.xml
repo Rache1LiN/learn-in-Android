@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="title_activity_second">secondActivity</string>
+    <string name="btn_name">浏览该网页</string>
+</resources>
